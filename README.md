@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔧 I work at **iRage**, a High-Frequency Trading firm, where I build **real-time, low-latency systems** for financial markets.  
+- 🔧 I work as a Software Developer at **iRage**, a High-Frequency Trading firm, where I build **real-time, low-latency systems** for financial markets.  
 - 🧠 Skilled in `C++`, `Python`, `Linux`, `ReactJS`, `SQL`, `Data Structures`, `Algorithms`, `RESTAPI`, `Pandas`, and `Numpy` .    
 - 🎓 NISM Series XVI Certified  
 - 📫 Reach me at **snehr63@gmail.com**
